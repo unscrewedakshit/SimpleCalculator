@@ -1,2 +1,2 @@
 # SimpleCalculator
-A simple calculator desktop application  made using Java.
+A simple calculator desktop applications madhe using Java 
